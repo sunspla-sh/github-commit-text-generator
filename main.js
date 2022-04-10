@@ -210,3 +210,19 @@ window.onload = function (){
 
 }
 
+
+
+
+/*
+
+github box colors
+grey - #ebedf0 - 0 contributions
+lightest green - #9be9a8 - bottom 25%
+lighter green - 40c463 - mid bottom 25%
+light green - #30a14e - mid top 25%
+dark green - #216e39 - top 25%
+
+//DOES NOT REQUIRE LOGIN
+https://github.com/users/sunspla-sh/contributions?to=2017-12-31
+
+*/
