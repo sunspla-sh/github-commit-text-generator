@@ -225,4 +225,16 @@ dark green - #216e39 - top 25%
 //DOES NOT REQUIRE LOGIN
 https://github.com/users/sunspla-sh/contributions?to=2017-12-31
 
+
+
+THINGS TO ADD
+
+- 4 different color buckets for commit depths plus the 0 commit bucket
+
+- import contributions from profile
+
+- true grid instead of 50x7
+
+- auto-generate clothing based on your designs using shopify API and print-to-order extensions
+
 */
