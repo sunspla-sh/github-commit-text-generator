@@ -13,7 +13,7 @@ generates a bash script that they can execute to quickly generate the desired co
 Users can also use the tool to generate multiple commits for each day, so that those days are shaded using darker color within their Github, which makes their art "pop" relative to their lighter-shaded regular commits.
 \
 \
-The code I wrote for this tool was previously in a private repository, but can now be found here in this repository. The live version on [GitBoxDraw.com](https://gitboxdraw.com) is still obfuscated, although technically it no longer needs to be now that the code is public.
+The code I wrote for this tool was **previously in a private repository**, but can now be found here in this repository. The **live version on [GitBoxDraw.com](https://gitboxdraw.com) is still obfuscated, although technically it no longer needs to be now that the code is public**.
 
 ## Example
 
