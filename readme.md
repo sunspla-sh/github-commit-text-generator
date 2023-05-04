@@ -15,6 +15,10 @@ Users can also use the tool to generate multiple commits for each day, so that t
 \
 The code I wrote for this tool was **previously in a private repository**, but can now be found here in this repository. The **live version on [GitBoxDraw.com](https://gitboxdraw.com) is still obfuscated, although technically it no longer needs to be now that the code is public**.
 
+Technologies used for this project include the following:
+
+![List of technologies](tech.png "List of technologies")
+
 ## Example
 
 **1)** &nbsp;&nbsp;&nbsp; A live example that says *Please Hire Me* can be seen here:
